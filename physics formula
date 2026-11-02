@@ -1,0 +1,116 @@
+
+# FIVE PHYSICS FORMULAS WITH FIGURES
+
+print("FIVE PHYSICS FORMULAS")
+
+# 1. SPEED = DISTANCE / TIME
+distance = 100  # metres
+time = 20       # seconds
+speed = distance / time
+
+print("\n1. SPEED")
+print("Distance =", distance, "m")
+print("Time =", time, "s")
+print("Speed =", distance, "/", time, "=", speed, "m/s")
+
+
+# 2. FORCE = MASS x ACCELERATION
+mass = 10           # kg
+acceleration = 5    # m/s^2
+force = mass * acceleration
+
+print("\n2. FORCE")
+print("Mass =", mass, "kg")
+print("Acceleration =", acceleration, "m/s^2")
+print("Force =", mass, "x", acceleration, "=", force, "N")
+
+
+# 3. DENSITY = MASS / VOLUME
+mass = 20       # kg
+volume = 4      # m^3
+density = mass / volume
+
+print("\n3. DENSITY")
+print("Mass =", mass, "kg")
+print("Volume =", volume, "m^3")
+print("Density =", mass, "/", volume, "=", density, "kg/m^3")
+
+
+# 4. WORK DONE = FORCE x DISTANCE
+force = 50       # N
+distance = 10    # m
+work = force * distance
+
+print("\n4. WORK DONE")
+print("Force =", force, "N")
+print("Distance =", distance, "m")
+print("Work Done =", force, "x", distance, "=", work, "J")
+
+
+# 5. KINETIC ENERGY = 1/2 x MASS x VELOCITY^2
+mass = 4        # kg
+velocity = 5    # m/s
+kinetic_energy = 0.5 * mass * velocity**2
+
+print("\n5. KINETIC ENERGY")
+print("Mass =", mass, "kg")
+print("Velocity =", velocity, "m/s")
+print("Kinetic Energy =", kinetic_energy, "J")
+
+# FIVE PHYSICS FORMULAS WITH FIGURES
+
+print("FIVE PHYSICS FORMULAS")
+
+# 1. SPEED = DISTANCE / TIME
+distance = 100  # metres
+time = 20       # seconds
+speed = distance / time
+
+print("\n1. SPEED")
+print("Distance =", distance, "m")
+print("Time =", time, "s")
+print("Speed =", distance, "/", time, "=", speed, "m/s")
+
+
+# 2. FORCE = MASS x ACCELERATION
+mass = 10           # kg
+acceleration = 5    # m/s^2
+force = mass * acceleration
+
+print("\n2. FORCE")
+print("Mass =", mass, "kg")
+print("Acceleration =", acceleration, "m/s^2")
+print("Force =", mass, "x", acceleration, "=", force, "N")
+
+
+# 3. DENSITY = MASS / VOLUME
+mass = 20       # kg
+volume = 4      # m^3
+density = mass / volume
+
+print("\n3. DENSITY")
+print("Mass =", mass, "kg")
+print("Volume =", volume, "m^3")
+print("Density =", mass, "/", volume, "=", density, "kg/m^3")
+
+
+# 4. WORK DONE = FORCE x DISTANCE
+force = 50       # N
+distance = 10    # m
+work = force * distance
+
+print("\n4. WORK DONE")
+print("Force =", force, "N")
+print("Distance =", distance, "m")
+print("Work Done =", force, "x", distance, "=", work, "J")
+
+
+# 5. KINETIC ENERGY = 1/2 x MASS x VELOCITY^2
+mass = 4        # kg
+velocity = 5    # m/s
+kinetic_energy = 0.5 * mass * velocity**2
+
+print("\n5. KINETIC ENERGY")
+print("Mass =", mass, "kg")
+print("Velocity =", velocity, "m/s")
+print("Kinetic Energy =", kinetic_energy, "J")
